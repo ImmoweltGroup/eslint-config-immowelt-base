@@ -33,6 +33,12 @@ module.exports = {
       consistent: true
     }
   ],
+  'no-multiple-empty-lines': [
+    'error',
+    {
+      max: 1
+    }
+  ],
   'import/first': 'off',
   'import/order': 'off',
   'no-plusplus': 'off',
