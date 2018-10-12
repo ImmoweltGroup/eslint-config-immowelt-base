@@ -86,6 +86,10 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
+"@immowelt/browserslist-config@^1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@immowelt/browserslist-config/-/browserslist-config-1.0.6.tgz#6d1b28a9f0a092ac041f432ef04a9509abebb746"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
