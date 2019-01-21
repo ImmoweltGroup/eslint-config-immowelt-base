@@ -7,14 +7,6 @@ module.exports = {
     'error',
     'never'
   ],
-  'max-len': [
-    'warn',
-    {
-      code: 120,
-      tabWidth: 2,
-      ignoreComments: true
-    }
-  ],
   'func-names': [
     'error',
     'never'
@@ -39,6 +31,7 @@ module.exports = {
       max: 1
     }
   ],
+  'max-len': 'off',
   'import/first': 'off',
   'import/order': 'off',
   'no-plusplus': 'off',
