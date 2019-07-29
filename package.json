@@ -12,7 +12,7 @@
     "yarn": ">=1.6.0"
   },
   "dependencies": {
-    "@immowelt/browserslist-config": "^1.0.6",
+    "@immowelt/browserslist-config": "^1.0.8",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.6.1",
     "eslint-config-airbnb-base": "^13.1.0",
