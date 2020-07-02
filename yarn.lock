@@ -86,9 +86,10 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@immowelt/browserslist-config@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@immowelt/browserslist-config/-/browserslist-config-1.0.6.tgz#6d1b28a9f0a092ac041f432ef04a9509abebb746"
+"@immowelt/browserslist-config@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@immowelt/browserslist-config/-/browserslist-config-2.0.0.tgz#beddb741f52cbfb0e3556c8fbe58a54152d4b7bb"
+  integrity sha512-XsFG2nYYaziyHDlxZq2i2MJzEVmyCG2Mt1HPVYQOMYYnxUPq/K2Cq9Dw8N6uoj69t/ryPH0iHJeTonVq6b/2tA==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
@@ -1233,11 +1234,13 @@ eslint-plugin-compat@^2.6.2:
     caniuse-db "^1.0.30000889"
     mdn-browser-compat-data "^0.0.53"
 
-eslint-plugin-flowtype@^2.50.3:
-  version "2.50.3"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-flowtype/-/eslint-plugin-flowtype-2.50.3.tgz#61379d6dce1d010370acd6681740fd913d68175f"
+eslint-plugin-flowtype@^5.0.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-flowtype/-/eslint-plugin-flowtype-5.2.0.tgz#a4bef5dc18f9b2bdb41569a4ab05d73805a3d261"
+  integrity sha512-z7ULdTxuhlRJcEe1MVljePXricuPOrsWfScRXFhNzVD5dmTHWjIF57AxD0e7AbEoLSbjSsaA5S+hCg43WvpXJQ==
   dependencies:
-    lodash "^4.17.10"
+    lodash "^4.17.15"
+    string-natural-compare "^3.0.1"
 
 eslint-plugin-import@^2.14.0:
   version "2.14.0"
@@ -2523,6 +2526,11 @@ lodash.without@~4.4.0:
 lodash@^4.17.10, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.1:
   version "4.17.11"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
+
+lodash@^4.17.15:
+  version "4.17.15"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
 loud-rejection@^1.0.0:
   version "1.6.0"
@@ -4234,6 +4242,11 @@ stream-shift@^1.0.0:
 strict-uri-encode@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/strict-uri-encode/-/strict-uri-encode-2.0.0.tgz#b9c7330c7042862f6b142dc274bbcc5866ce3546"
+
+string-natural-compare@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/string-natural-compare/-/string-natural-compare-3.0.1.tgz#7a42d58474454963759e8e8b7ae63d71c1e7fdf4"
+  integrity sha512-n3sPwynL1nwKi3WJ6AIsClwBMa0zTi54fn2oLU6ndfTSIO05xaznjSf15PcBZU6FNWbmN5Q6cxT4V5hGvB4taw==
 
 string-width@^1.0.1:
   version "1.0.2"
