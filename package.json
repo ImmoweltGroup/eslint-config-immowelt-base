@@ -17,7 +17,7 @@
     "eslint-plugin-import": "^2.14.0"
   },
   "devDependencies": {
-    "semantic-release": "^15.9.17"
+    "semantic-release": "^17.0.0"
   },
   "scripts": {
     "lint": "eslint .",
