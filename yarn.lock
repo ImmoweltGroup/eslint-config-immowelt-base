@@ -86,9 +86,10 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@immowelt/browserslist-config@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@immowelt/browserslist-config/-/browserslist-config-1.0.6.tgz#6d1b28a9f0a092ac041f432ef04a9509abebb746"
+"@immowelt/browserslist-config@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@immowelt/browserslist-config/-/browserslist-config-2.0.0.tgz#beddb741f52cbfb0e3556c8fbe58a54152d4b7bb"
+  integrity sha512-XsFG2nYYaziyHDlxZq2i2MJzEVmyCG2Mt1HPVYQOMYYnxUPq/K2Cq9Dw8N6uoj69t/ryPH0iHJeTonVq6b/2tA==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
@@ -1232,12 +1233,6 @@ eslint-plugin-compat@^2.6.2:
     browserslist "^4.1.2"
     caniuse-db "^1.0.30000889"
     mdn-browser-compat-data "^0.0.53"
-
-eslint-plugin-flowtype@^2.50.3:
-  version "2.50.3"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-flowtype/-/eslint-plugin-flowtype-2.50.3.tgz#61379d6dce1d010370acd6681740fd913d68175f"
-  dependencies:
-    lodash "^4.17.10"
 
 eslint-plugin-import@^2.14.0:
   version "2.14.0"
