@@ -7,10 +7,6 @@
   "author": "Kevin Ruff <kevin.ruff@immonet.de>",
   "license": "MIT",
   "private": false,
-  "engines": {
-    "node": ">=8.11.4",
-    "yarn": ">=1.6.0"
-  },
   "dependencies": {
     "@immowelt/browserslist-config": "^2.0.0",
     "babel-eslint": "^10.0.1",
@@ -61,5 +57,13 @@
   ],
   "browserslist": [
     "extends @immowelt/browserslist-config"
-  ]
+  ],
+  "engines": {
+    "node": ">=12.22.6",
+    "yarn": ">=1.6.0"
+  },
+  "volta": {
+    "node": "12.22.6",
+    "yarn": "1.22.11"
+  }
 }
