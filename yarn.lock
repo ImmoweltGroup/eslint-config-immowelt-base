@@ -91,10 +91,10 @@
   resolved "https://registry.yarnpkg.com/@gar/promisify/-/promisify-1.1.2.tgz#30aa825f11d438671d585bd44e7fd564535fc210"
   integrity sha512-82cpyJyKRoQoRi+14ibCeGPu0CwypgtBAdBhq1WfvagpCZNKqwXbKwXllYSMG91DhmG4jt9gN8eP6lGOtozuaw==
 
-"@immowelt/browserslist-config@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@immowelt/browserslist-config/-/browserslist-config-2.0.0.tgz#beddb741f52cbfb0e3556c8fbe58a54152d4b7bb"
-  integrity sha512-XsFG2nYYaziyHDlxZq2i2MJzEVmyCG2Mt1HPVYQOMYYnxUPq/K2Cq9Dw8N6uoj69t/ryPH0iHJeTonVq6b/2tA==
+"@immowelt/browserslist-config@^3.0.0":
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/@immowelt/browserslist-config/-/browserslist-config-3.0.8.tgz#936ed2abdf05ac83a6cc6af595ba99a51374a6fb"
+  integrity sha512-fBOX1I9mBrDjM3Hh3d2md7Eruh89sGzw84mGqJCPuJ7MDLMLKdajOGd0nkeGRRYeOeO2PPysWx/IgpCWbgwxWw==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
