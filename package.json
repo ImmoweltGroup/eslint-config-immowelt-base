@@ -7,20 +7,16 @@
   "author": "Kevin Ruff <kevin.ruff@immonet.de>",
   "license": "MIT",
   "private": false,
-  "engines": {
-    "node": ">=8.11.4",
-    "yarn": ">=1.6.0"
-  },
   "dependencies": {
-    "@immowelt/browserslist-config": "^2.0.0",
+    "@immowelt/browserslist-config": "^3.0.0",
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.6.1",
+    "eslint": "^7.0.0",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-compat": "^2.6.2",
+    "eslint-plugin-compat": "^3.0.0",
     "eslint-plugin-import": "^2.14.0"
   },
   "devDependencies": {
-    "semantic-release": "^15.9.17"
+    "semantic-release": "^17.0.0"
   },
   "scripts": {
     "lint": "eslint .",
@@ -48,6 +44,10 @@
         {
           "type": "SECURITY",
           "release": "patch"
+        },
+        {
+          "type": "PATCH",
+          "release": "patch"
         }
       ]
     }
@@ -60,5 +60,13 @@
   ],
   "browserslist": [
     "extends @immowelt/browserslist-config"
-  ]
+  ],
+  "engines": {
+    "node": ">=12.22.6",
+    "yarn": ">=1.6.0"
+  },
+  "volta": {
+    "node": "12.22.6",
+    "yarn": "1.22.11"
+  }
 }
