@@ -1,7 +1,6 @@
 const rules = require('./rules');
 
 module.exports = {
-  parser: 'babel-eslint',
   extends: [
     'eslint-config-airbnb-base',
     'plugin:compat/recommended'

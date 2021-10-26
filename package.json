@@ -9,11 +9,10 @@
   "private": false,
   "dependencies": {
     "@immowelt/browserslist-config": "^3.0.0",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.32.0",
+    "eslint": "^8.1.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-compat": "^3.13.0",
-    "eslint-plugin-import": "^2.24.2"
+    "eslint-plugin-import": "^2.25.2"
   },
   "devDependencies": {
     "semantic-release": "^18.0.0"
