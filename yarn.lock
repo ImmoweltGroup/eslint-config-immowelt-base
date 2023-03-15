@@ -63,9 +63,9 @@
   integrity sha512-wdppn25U8z/2yiaT6YGquE6X8sSv7hNMWSXYSSU1jGv/yd6XqjXgTDJ8KP4NgjTXfJ3GbRjeeb8RTV7a/VpM+w==
 
 "@immowelt/browserslist-config@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@immowelt/browserslist-config/-/browserslist-config-4.0.0.tgz#f567600f0058d5daf6dab01dbc0348f0c147556f"
-  integrity sha512-IjeAxv1jCsqooDixNAvXJb4AN2yQCDkVZFy17+xhC6gubwUvAYW553BAWPtrHgzBrrImWlHg1AxlKf0u3ZipJg==
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/@immowelt/browserslist-config/-/browserslist-config-4.0.2.tgz#b97d237dc5e917bb26d8698b456010993c3cf238"
+  integrity sha512-nyVPPrycUDkaHNZl1SRZGxiFLSrUkQO7R0qv6krID9rn694GVyXIjfGSyl4m+HHOYt/rakjK+w7LhRVQQ0uRuA==
 
 "@isaacs/string-locale-compare@^1.1.0":
   version "1.1.0"
