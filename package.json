@@ -61,7 +61,7 @@
     "extends @immowelt/browserslist-config"
   ],
   "engines": {
-    "node": ">=12.22.6",
+    "node": ">=18.0.0",
     "yarn": ">=1.6.0"
   },
   "volta": {
